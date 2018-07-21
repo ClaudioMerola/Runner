@@ -1,0 +1,7 @@
+D:\Miner Sources\ConsoleApplication2\ConsoleApplication1\bin\Debug\v_prep.exe.config
+D:\Miner Sources\ConsoleApplication2\ConsoleApplication1\bin\Debug\v_prep.exe
+D:\Miner Sources\ConsoleApplication2\ConsoleApplication1\bin\Debug\v_prep.pdb
+D:\Miner Sources\ConsoleApplication2\ConsoleApplication1\obj\Debug\V_Prep.csprojAssemblyReference.cache
+D:\Miner Sources\ConsoleApplication2\ConsoleApplication1\obj\Debug\V_Prep.csproj.CoreCompileInputs.cache
+D:\Miner Sources\ConsoleApplication2\ConsoleApplication1\obj\Debug\v_prep.exe
+D:\Miner Sources\ConsoleApplication2\ConsoleApplication1\obj\Debug\v_prep.pdb
